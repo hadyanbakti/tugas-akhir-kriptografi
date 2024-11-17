@@ -1,0 +1,51 @@
+.carousel .carousel-item {
+  height: 80vh;
+}
+
+.carousel-item img {
+  position: absolute;
+  object-fit: cover;
+  top: 0;
+  left: 0;
+  min-height: 80vh;
+}
+
+.hal_log{
+  background-color: rgb(7, 56, 234);
+  padding: 10px;
+  color: white;
+  font-size: 30px;
+  border-radius: 2px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+.logb{
+  width: 300px;
+  border-radius: 20px;
+}
+
+.loga{
+  margin-inline: 100px;
+}
+
+.alerta{
+  z-index: 100;
+}
+
+
+.bg{
+  background-image: url(img/dior_sauvage.webp);
+  background-size: cover;
+  backdrop-filter: dark;
+}
+
+.cardd{
+  width: 400px;
+  height: 62vh;
+  background-color: rgb(255, 255, 255);
+  margin: 80px;
+}
+
+#animasi:hover{
+  background-color: #1E4EBE;
+}
